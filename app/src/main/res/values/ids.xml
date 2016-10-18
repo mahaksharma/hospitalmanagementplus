@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="sign_in_button" type="id">signingoogle</item>
+    <item name="sign_out_and_disconnect" type="id">signoutanddisconnect</item>
+</resources>

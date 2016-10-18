@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">hospital management</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_mainpatient">mainpatient</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_maindoctor">maindoctor</string>
+    <string name="signed_out">signedout</string>
+    <string name="signed_in_fmt">signedinfmt</string>
+</resources>
